@@ -1,0 +1,2 @@
+[carbon "foo.txt"]
+	sourceRepository = https://github.com/gregoire-mullvad/testdata-git-carbon-action-upstream
