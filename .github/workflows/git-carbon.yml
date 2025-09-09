@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Testing git-carbon-action
     steps:
-      - uses: gregoire-mullvad/git-carbon-action
+      - uses: gregoire-mullvad/git-carbon-action@devs
       # TODO: Check that the PR has been opened
       # TODO: Cleanup: close pr, remove branch
 
